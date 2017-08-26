@@ -1,0 +1,10 @@
+/home/semiash/projects/Graphics/Graphics/obj/Debug/netcoreapp2.0/Graphics.csproj.CoreCompileInputs.cache
+/home/semiash/projects/Graphics/Graphics/obj/Debug/netcoreapp2.0/Graphics.AssemblyInfoInputs.cache
+/home/semiash/projects/Graphics/Graphics/obj/Debug/netcoreapp2.0/Graphics.AssemblyInfo.cs
+/home/semiash/projects/Graphics/Graphics/bin/Debug/netcoreapp2.0/Graphics.deps.json
+/home/semiash/projects/Graphics/Graphics/bin/Debug/netcoreapp2.0/Graphics.runtimeconfig.json
+/home/semiash/projects/Graphics/Graphics/bin/Debug/netcoreapp2.0/Graphics.runtimeconfig.dev.json
+/home/semiash/projects/Graphics/Graphics/bin/Debug/netcoreapp2.0/Graphics.dll
+/home/semiash/projects/Graphics/Graphics/bin/Debug/netcoreapp2.0/Graphics.pdb
+/home/semiash/projects/Graphics/Graphics/obj/Debug/netcoreapp2.0/Graphics.dll
+/home/semiash/projects/Graphics/Graphics/obj/Debug/netcoreapp2.0/Graphics.pdb
